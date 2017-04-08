@@ -1,8 +1,11 @@
 # 我的论文阅读笔记
 
 ## GAN
-- [《Generative adversarial nets》Goodfellow, Ian, et al. 2014](https://github.com/applenob/paper_note/blob/master/gan.ipynb)
-- [《NIPS 2016 Tutorial: Generative Adversarial Networks》Ian Goodfellow, 2017](https://github.com/applenob/paper_note/blob/master/gan_tutorial.ipynb)
-- [《Generative Adversarial Text to Image Synthesis》Scott Reed, Zeynep Akata, 2016](https://github.com/applenob/paper_note/blob/master/ga-txt2i-syn.ipynb)
+- *Generative adversarial nets*, Goodfellow, Ian, et al. 2014, [note](https://github.com/applenob/paper_note/blob/master/gan.ipynb), [paper](https://arxiv.org/abs/1406.2661)
+- *NIPS 2016 Tutorial: Generative Adversarial Networks*, Ian Goodfellow, 2017, [note](https://github.com/applenob/paper_note/blob/master/gan_tutorial.ipynb), [paper](https://arxiv.org/abs/1701.00160)
+- *Generative Adversarial Text to Image Synthesis*, Scott Reed, Zeynep Akata, 2016, [note](https://github.com/applenob/paper_note/blob/master/ga-txt2i-syn.ipynb), [paper](https://arxiv.org/abs/1605.05396)
 
+## Zero-Shot Learning
+- *Predicting Visual Exemplars of Unseen Classes for Zero-Shot Learning*, Soravit Changpinyo, Wei-Lun Chao, Fei Sha [note](https://github.com/applenob/paper_note/blob/master/pve-zsl.ipynb), [paper](https://arxiv.org/abs/1605.08151)
+- *Predicting Deep Zero-Shot Convolutional Neural Networks using Textual Descriptions*, Jimmy Lei Ba, Kevin Swersky, Sanja Fidler, Ruslan Salakhutdinov [note](https://github.com/applenob/paper_note/blob/master/pd-zs-cnn.ipynb), [paper](https://arxiv.org/abs/1506.00511)
 
