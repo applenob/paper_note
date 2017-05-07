@@ -22,6 +22,6 @@
 
 ## Video
 - *Harnessing Object and Scene Semantics for Large-Scale Video Understanding*, Zuxuan Wu, Yanwei Fu, Yu-Gang Jiang, Leonid Sigal [note](https://github.com/applenob/paper_note/blob/master/hoss.ipynb), [paper](http://cs.brown.edu/~ls/Publications/cvpr2016wu.pdf)
-- *Objects2action: Classifying and localizing actions without any video example*,Mihir Jain, Jan C. van Gemer [note](), [paper](https://staff.fnwi.uva.nl/t.e.j.mensink/zsl2016/zslpubs/jain15iccv.pdf)
+- *Objects2action: Classifying and localizing actions without any video example*,Mihir Jain, Jan C. van Gemer [note](https://github.com/applenob/paper_note/blob/master/o2a.ipynb), [paper](https://staff.fnwi.uva.nl/t.e.j.mensink/zsl2016/zslpubs/jain15iccv.pdf)
 
 - **, [note](), [paper]()
