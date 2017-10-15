@@ -6,5 +6,6 @@ paper的笔记，像之前那样一篇保存成一个markdown文件的形式不�
 
 ## 目录介绍
 
+- [RL](https://github.com/applenob/paper_note/tree/master/RL)：强化学习相关。
 - [RL+NLG](https://github.com/applenob/paper_note/tree/master/RL%2BNLG)：强化学习和对话生成相结合的方向。
 - [Word2Vec](https://github.com/applenob/paper_note/tree/master/Word2Vec)：词向量相关。
