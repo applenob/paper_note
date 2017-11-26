@@ -8,9 +8,10 @@ paper的笔记，像之前那样一篇保存成一个markdown文件的形式不�
 
 - [NLP]()：
     - [Slot filling](https://github.com/applenob/paper_note/tree/master/RNN)：槽位填充。
-    - [Text Normalization]()：文本转换，从written形式转换成spoken形式。
+    - [Text Normalization](https://github.com/applenob/paper_note/tree/master/Text_Normalization)：文本转换，从written形式转换成spoken形式。
     - [Word2Vec](https://github.com/applenob/paper_note/tree/master/Word2Vec)：词向量。
-    - [NER]()：命名实体识别。
-    - [Dependency Parser]()：依存分析。
-    - [RL+NLG](https://github.com/applenob/paper_note/tree/master/RL%2BNLG)：强化学习和对话生成相结合的方向。
+    - [Topic Model](https://github.com/applenob/paper_note/tree/master/Topic_Model)：主题模型。
+    - [NER](https://github.com/applenob/paper_note/tree/master/NER)：命名实体识别。
+    - [Dependency Parser](https://github.com/applenob/paper_note/tree/master/Dependency_Parser)：依存分析。
+    - [RL+NLP](https://github.com/applenob/paper_note/tree/master/RL%2BNLP)：强化学习和NLP相结合的方向。
 - [Reinforcement Learning](https://github.com/applenob/paper_note/tree/master/RL)：强化学习。
